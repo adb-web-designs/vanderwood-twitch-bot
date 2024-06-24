@@ -8,4 +8,4 @@ mkdocs-material==9.5.27
 cairosvg==2.7.0
 pillow==10.3.0
 mike==2.1.1
-discord.py==2.3.2
+discord.py==2.4.0
